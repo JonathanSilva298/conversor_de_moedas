@@ -1,6 +1,10 @@
 # app_03_moedas
 
-A new Flutter project.
+Aplicatvo que realiza a conversão entre as moedas:
+- Iene(¥)
+- Real(R$)
+- Dólar($)
+- Bitcoin(₿)
 
 ## Getting Started
 
